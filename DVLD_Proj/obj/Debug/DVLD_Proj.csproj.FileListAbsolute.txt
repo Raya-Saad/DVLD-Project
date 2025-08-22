@@ -1,0 +1,13 @@
+R:\Projects\DVLD Project\DVLD_Proj\bin\Debug\DVLD_Proj.exe.config
+R:\Projects\DVLD Project\DVLD_Proj\bin\Debug\DVLD_Proj.exe
+R:\Projects\DVLD Project\DVLD_Proj\bin\Debug\DVLD_Proj.pdb
+R:\Projects\DVLD Project\DVLD_Proj\obj\Debug\DVLD_Proj.csproj.AssemblyReference.cache
+R:\Projects\DVLD Project\DVLD_Proj\obj\Debug\DVLD_Proj.frmMain.resources
+R:\Projects\DVLD Project\DVLD_Proj\obj\Debug\DVLD_Proj.frmTest.resources
+R:\Projects\DVLD Project\DVLD_Proj\obj\Debug\DVLD_Proj.Properties.Resources.resources
+R:\Projects\DVLD Project\DVLD_Proj\obj\Debug\DVLD_Proj.csproj.GenerateResource.cache
+R:\Projects\DVLD Project\DVLD_Proj\obj\Debug\DVLD_Proj.csproj.CoreCompileInputs.cache
+R:\Projects\DVLD Project\DVLD_Proj\obj\Debug\DVLD_Proj.exe
+R:\Projects\DVLD Project\DVLD_Proj\obj\Debug\DVLD_Proj.pdb
+R:\Projects\DVLD Project\DVLD_Proj\obj\Debug\DVLD_Proj.exe.config
+R:\Projects\DVLD Project\DVLD_Proj\obj\Debug\DVLD_Proj.frmManagePeople.resources
